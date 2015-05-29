@@ -1,0 +1,25 @@
+{
+  "name": "global-mocha",
+  "version": "1.0.0",
+  "description": "Require mocha global variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo TODO"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeqaz/global-mocha.git"
+  },
+  "keywords": [
+    "mocha",
+    "global",
+    "require",
+    "variables"
+  ],
+  "author": "Free Wortley <00free@gmail.com> (http://freeqaz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freeqaz/global-mocha/issues"
+  },
+  "homepage": "https://github.com/freeqaz/global-mocha"
+}
