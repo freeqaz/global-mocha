@@ -2,7 +2,7 @@
 Require mocha global variables.
 
 ```javascript
-// Require the globals and write your test like your normally would.
+// Require the globals and write your test like you normally would.
 // No more need to define globals at the top of every test for linting!
 import {because, before, it} from 'global-mocha';
 
